@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning <br>👯 I’m looking to collaborate with cypto projects <br>🌱 I’m currently learning javascript and its frame work<br>💬 Ask me about javascript and solidity<br>⚡ I am a crypto enthusiast
+👯 I’m looking to collaborate with cypto projects <br>🌱 I’m currently learning javascript and its frame work<br>💬 Ask me about javascript and solidity<br>⚡ I am a crypto enthusiast
 
 
 
